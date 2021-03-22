@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\projects\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+C:\Users\User\Desktop\projects\Calculator\Debug\Calculator.exe
+C:\Users\User\Desktop\projects\Calculator\Debug\Calculator.pdb
+C:\Users\User\Desktop\projects\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\User\Desktop\projects\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\check\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+C:\Users\User\Desktop\projects\check\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\User\Desktop\projects\check\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\check\Calculator\Debug\Calculator.exe
+C:\Users\User\Desktop\projects\check\Calculator\Debug\Calculator.pdb
